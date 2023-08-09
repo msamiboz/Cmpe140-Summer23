@@ -1,0 +1,11 @@
+Name Height Weight
+%Can Can% 1.70 65
+%Cem Cem% 1.75 66
+%Hande Hande% 1.62 61
+%Lale Lale% 1.76 64
+%Arda Arda% 1.78 63
+%Bilgin Bilgin% 1.77 84
+%Cem Cim% 1.69 75
+%Ozlem Ozlem% 1.75 65
+%Ali Ali% 1.73 75
+%Haluk Haluk% 1.71 81
